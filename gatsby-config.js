@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Ivy Chen`,
-    name: `Ivy Chen  - built using Gatsby`,
+    name: `Ivy Chen`,
     siteUrl: `https://ivychen-design.netlify.app/`,
     description: `Ivy Chen is a multidisciplinary designer based in the SF Bay Area`,
     hero: {
@@ -46,7 +46,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `✨`,
+        icon: `src/assets/favicon.png`,
       },
     },
     {
