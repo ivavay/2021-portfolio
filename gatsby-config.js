@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Ivy Chen - built using Gatsby`,
+    title: `Ivy Chen`,
     name: `Ivy Chen  - built using Gatsby`,
     siteUrl: `https://ivychen-design.netlify.app/`,
     description: `Ivy Chen is a multidisciplinary designer based in the SF Bay Area`,
