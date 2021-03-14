@@ -1,5 +1,6 @@
 backend: # Set up your backend
-  name: gitlab
+  name: github
+  repo: ivavay/2021-portfolio
 
 local_backend: true # Optional if you want to use the local proxy mode
 
