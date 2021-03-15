@@ -41,7 +41,9 @@ How do we optimize car usage for unoccupied cars in parking lots? This was the i
 I interviewed three people in a span of three days in order to better understand some of the concerns that these potential users may have. For the process, I audio recorded them and transcribed the audio afterward. While transcribing, I paid special attention to quotes that had either intense positive or negative emotions to them. Some of the notable quotes from the interviews were:
 
 “Going from here to LA would kind of be disastrous, and my stress level would go up”
+
 “I think I would be, to let a stranger use my car, because I’m assuming there’s some sort of financial gain that I can possibly make, and I would let my friends borrow my car and so, I feel comfortable doing that sort of thing.”
+
 "But if I got money for it, totally, why not”
 
 Overall, I found that all of them are concerned with the credibility and trustworthiness of the renter and host. They all had wanted more information about the respective party before either renting out their car for a stranger to use or using a stranger’s car.
@@ -119,14 +121,6 @@ When there is a new request for rental, it’d immediately pop up after opening 
     alt="Alt text"
   />
 </div>
-
-### Recap 
-
-✔︎ Decided on problem space
-✔︎ Defined the problem
-✔︎ Conducted user research
-✔︎ Drew information architecture and wireframes
-✔︎ Mocked up solutions for renter's and host's view
 
 ### Reflection
 
