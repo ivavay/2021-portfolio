@@ -2,8 +2,8 @@
 title: Uber Rent
 author: Ivy Chen
 date: 2021-03-15
-hero: ./images/uber-rent-thumbnail.png
-excerpt: A car-sharing platform that aims to optimize car usage for occupied cars & build trust between hosts and renters
+hero: ./images/uber-rent-thumbnail.jpeg
+excerpt: A car-sharing platform that aims to optimize car usage for unoccupied cars & build trust between hosts and renters
 ---
 
 ### Overview
@@ -127,13 +127,9 @@ When there is a new request for rental, it’d immediately pop up after opening 
 ### Recap 
 
 ✔︎ Decided on problem space
-
 ✔︎ Defined the problem
-
 ✔︎ Conducted user research
-
 ✔︎ Drew information architecture and wireframes
-
 ✔︎ Mocked up solutions for renter's and host's view
 
 ### Reflection
