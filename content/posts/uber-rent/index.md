@@ -28,8 +28,6 @@ Upon looking at the participating portfolio companies listed on the site, I was 
 
 Then I turned to Uber. It’s a company at the forefront of the rising gig economy, transforming not only the way people move around but also the way people work. Since I have an  interest in the future of work, I thought that focusing on Uber would allow me to learn more about the company’s role in changing the labor industry.
 
-Then I turned to Uber. It’s a company at the forefront of the rising gig economy, transforming not only the way people move around but also the way people work. Since I have an  interest in the future of work, I thought that focusing on Uber would allow me to learn more about the company’s role in changing the labor industry.
-
 Uber Rent. According to an article published in 2018, it’s a program that had partnered up with Getaround —a startup that lets users find and instantly book vehicles from private car owners, to provide users with the option of renting a car in the Uber app itself. Apparently, the feature was only available in some selected cities from April 2018 to November 2018. Why was Uber Rent eventually taken off the app after only after its brief, short-lived appearance? I couldn’t find much information online, but I knew I wanted to tackle the challenge of reimagining this forgotten feature.
 
 #### 2 — Defining the Problem 
@@ -43,9 +41,7 @@ How do we optimize car usage for unoccupied cars in parking lots? This was the i
 I interviewed three people in a span of three days in order to better understand some of the concerns that these potential users may have. For the process, I audio recorded them and transcribed the audio afterward. While transcribing, I paid special attention to quotes that had either intense positive or negative emotions to them. Some of the notable quotes from the interviews were:
 
 “Going from here to LA would kind of be disastrous, and my stress level would go up”
-
 “I think I would be, to let a stranger use my car, because I’m assuming there’s some sort of financial gain that I can possibly make, and I would let my friends borrow my car and so, I feel comfortable doing that sort of thing.”
-
 "But if I got money for it, totally, why not”
 
 Overall, I found that all of them are concerned with the credibility and trustworthiness of the renter and host. They all had wanted more information about the respective party before either renting out their car for a stranger to use or using a stranger’s car.
