@@ -6,7 +6,6 @@ hero: ./images/3d-thumbnail.png
 excerpt: This is where my 3D experiments in Blender and Cinema 4D live. 
 ---
 
-
 ### Composition Practice
 
 I wanted to practice my eye for colors, compositon, and movement in this series. I mostly wanted to explore simple geometric shapes with nature. This is also my first time creating in 3D without relying on a tutorial. 
