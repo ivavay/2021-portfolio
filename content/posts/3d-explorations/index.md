@@ -1,10 +1,11 @@
 ---
 title: 3D Explorations
 author: Ivy Chen
-date: 2021-03-14
+# date: 2021-03-14
 hero: ./images/3d-thumbnail.png
 excerpt: This is where my 3D experiments in Blender and Cinema 4D live. 
 ---
+
 
 ### Composition Practice
 
