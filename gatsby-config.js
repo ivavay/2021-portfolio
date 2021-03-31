@@ -18,6 +18,10 @@ module.exports = {
         url: `https://github.com/ivavay`,
       },
       {
+        name: `devto`,
+        url: `https://dev.to/ivavay`,
+      },
+      {
         name: `linkedin`,
         url: `https://www.linkedin.com/in/ivy-chen-4065aab7/`,
       },

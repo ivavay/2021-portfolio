@@ -4,7 +4,8 @@ bio: |
   
 avatar: ./avatars/ivychen.jpeg
 social:
-  - url: https://https://www.linkedin.com/in/ivy-chen-4065aab7/
   - url: https://twitter/ivavay
   - url: https://github.com/ivavay
+  - url: https://dev.to/ivavay
+  
 featured: true
