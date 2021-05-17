@@ -1,7 +1,7 @@
 ---
 title: About Me 
 author: Ivy Chen 
-date: 2021-03-13
+date: 2021-05-16
 hero: ./images/about-me.jpg
 excerpt: I'm a senior at UC Santa Cruz studying Cognitive Science (w/ an emphasis on HCI). 
 ---
