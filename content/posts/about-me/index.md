@@ -3,7 +3,7 @@ title: About Me
 author: Ivy Chen 
 date: 2021-03-13
 hero: ./images/about-me.jpg
-excerpt: I'm a senior at UC Santa Cruz studying Cognitive Science (w/ an emphasis on HCI). I love linocut printprintmaking and the Ambrosia blend at Philz.
+excerpt: I'm a senior at UC Santa Cruz studying Cognitive Science (w/ an emphasis on HCI). 
 ---
 
 ### About Me 
