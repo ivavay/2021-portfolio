@@ -52,6 +52,22 @@ Then, I wrote some user stories to guide my sketches and determine concrete call
 
 I decided early that this platform would be web-based first since a lot of these resources in the playlists are easier to access on the desktop, especially if you’re learning-by-doing along the way. 
 
+<div className="Image__Small">
+  <img
+    src="./images/home-screen.jpg"
+    title="home"
+    alt="Alt text"
+  />
+</div>
+
+<div className="Image__Small">
+  <img
+    src="./images/learn-react.jpg"
+    title="react"
+    alt="Alt text"
+  />
+</div>
+
 More coming soon...
 
 
