@@ -2,7 +2,7 @@
 title: Learning Playlists Curated
 author: Ivy Chen
 date: 2021-05-17
-hero: ./images/edtech-tn.jpg
+hero: ./images/ed-tech-tn.jpg
 excerpt: A web platform for sharing curated learning paths in the community
 ---
 
@@ -35,11 +35,19 @@ When I read the interview transcripts, I highlighted quotes that stood out to me
 
 >Because like you might find little bits and pieces of everything online, but it's hard to like actually fully learn something, because not always is everything like put in one place
 
-Then, I came up with a list of key insights based off of the quotes that I had highlighted. Since there were so many, I had to narrow down the key insights to 5 different key problems to focus on and prioritized those that were brought up at least 2 times. I used FigJam to create a mind map of each of the problems and brainstormed design directions for how we could address them
+Then, I came up with a list of key insights based off of the quotes that I had highlighted. Since there were so many, I had to narrow down the key insights to 4 different key problems to focus on and prioritized those that were brought up at least 2 times. I used FigJam to create a mind map of each of the problems and brainstormed design directions for how we could address them.
+
+Insights: 
+
+- Harder to gauge good resources when you’re starting out 
+- Credibility of what you’re consuming
+- Not knowing where to go to build a good foundation
+- Learning style depends on your wavelength of mental state for that time
+
 
 <div className="Image__Small">
   <img
-    src="./images/edtech-figjam.jpg"
+    src="./images/edtech-fig.jpg"
     title="figjam"
     alt="Alt text"
   />
@@ -54,11 +62,16 @@ I decided early that this platform would be web-based first since a lot of these
 
 <div className="Image__Small">
   <img
-    src="./images/home-screen.jpg"
+    src="./images/edtech-home.jpg"
     title="home"
     alt="Alt text"
   />
 </div>
+
+On the home page, the learner can filter their search results via dropdowns (verified, company, staff's pick). Creators can become verified if they submit some proof of mastery (such as work experience, certificates, projects built with technology, etc.)in the topics they're creating a playlist in. This filter addresses the problem of credibilty since it's not the playlists with the most favorites that are displayed at the top, but the ones that fit with the criteria of the filter. 
+
+The learner can also search using the search bar at the top or click on one of the popular topic tags for the month to see playlists created for that topic. 
+
 
 <div className="Image__Small">
   <img
@@ -67,6 +80,10 @@ I decided early that this platform would be web-based first since a lot of these
     alt="Alt text"
   />
 </div>
+
+Above is an example of what a playlist looks like. Since playlists are intended to capture the whole spectrum of learning a topic, from beginner to advanced, I wanted to make it easier for learners from different levels to access the appropriate starting points within a playlist. To do this, there is a dropdown filter at the top right corner that indicates beginner, advanced, or advanced. 
+
+In addition, there are tags beneath each resource that indicates what format the resource is in (learn-by-doing, video, book, etc.) to help learners choose which learning style is more suitable for them based on their current mental state. 
 
 More coming soon...
 
