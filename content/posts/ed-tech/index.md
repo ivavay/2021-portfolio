@@ -2,7 +2,7 @@
 title: Learning Playlists Curated
 author: Ivy Chen
 date: 2021-05-17
-hero: ./images/ed-tech-tn.jpg
+hero: ./images/ed-tech-tb.jpg
 excerpt: A web platform for sharing curated learning paths in the community
 ---
 
