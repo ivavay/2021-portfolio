@@ -37,7 +37,7 @@ When I read the interview transcripts, I highlighted quotes that stood out to me
 
 Then, I came up with a list of key insights based off of the quotes that I had highlighted. Since there were so many, I had to narrow down the key insights to 4 different key problems to focus on and prioritized those that were brought up at least 2 times. I used FigJam to create a mind map of each of the problems and brainstormed design directions for how we could address them.
 
-Insights: 
+#### Insights: 
 
 - Harder to gauge good resources when you’re starting out 
 - Credibility of what you’re consuming
