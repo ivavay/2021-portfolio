@@ -85,10 +85,8 @@ Above is an example of what a playlist looks like. Since playlists are intended 
 
 In addition, there are tags beneath each resource that indicates what format the resource is in (learn-by-doing, video, book, etc.) to help learners choose which learning style is more suitable for them based on their current mental state. 
 
-More coming soon...
 
-
-#### 5 — Planning Next Stepes
+#### 5 — Planning Next Steps
 
 For the first iteration, I didn’t want to overwhelm myself with too many problems to address. However, there are a few insights from interviews and from informal conversations with friends that I feel like would be nice to develop. For example, maybe the creator can make the playlist public or private if they only want to share the curated resources with people within their network. Also, it would be cool if the playlists can be collaborative so that people within organizations or companies can use the platform to share knowledge with new grad/ junior employees on their teams. To address the social aspect and motivation part of learning in isolation, there could be a gallery for each topic so that learners can see what others have made with the knowledge they’ve gained. 
 
