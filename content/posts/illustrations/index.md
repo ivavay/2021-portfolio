@@ -41,7 +41,7 @@ Fresco, Procreate, Adobe Illustrator
     alt="Alt text"
   />
    <img
-    src="./images/fineart.png"
+    src="./images/isometric.png"
     title="3d thumbnail"
     alt="Alt text"
   />

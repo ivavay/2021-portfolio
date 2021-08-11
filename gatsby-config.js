@@ -3,9 +3,9 @@ module.exports = {
     title: `Ivy Chen`,
     name: `Ivy Chen`,
     siteUrl: `https://ivychen-design.netlify.app/`,
-    description: `Ivy Chen is a multidisciplinary designer based in the SF Bay Area`,
+    description: `Ivy Chen is a product designer and illustrator based in the SF Bay Area`,
     hero: {
-      heading: `Ivy Chen is a multidisciplinary designer based in the SF Bay Area`,
+      heading: `Ivy Chen is a product designer and illustrator based in the SF Bay Area`,
       maxWidth: 652,
     },
     social: [
@@ -24,6 +24,10 @@ module.exports = {
       {
         name: `linkedin`,
         url: `https://www.linkedin.com/in/ivy-chen-4065aab7/`,
+      },
+      {
+        name: `instagram`,
+        url: `https://www.instagram.com/wonderbar.studio/`,
       },
     ],
   },
