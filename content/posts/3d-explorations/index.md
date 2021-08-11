@@ -8,7 +8,7 @@ excerpt: This is where my 3D experiments live.
 
 ### Food Series 
 
-Inspired by the Taiwanese food I ate during my 6-month stay in Taiwan last year, I recreated my favorite foods in Cinema4D. 
+Inspired by the Taiwanese food I ate during my 6-month stay in Taiwan last year, I recreated my favorite foods in Cinema4D 
 
 <div className="Image__Small">
   <img
