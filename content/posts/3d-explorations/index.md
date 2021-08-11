@@ -3,7 +3,7 @@ title: 3D Explorations
 author: Ivy Chen
 date: 2021-08-10
 hero: ./images/3d-thumbnail.png
-excerpt: This is where my 3D experiments live. 
+excerpt: This is where my 3D experiments live 
 ---
 
 ### Food Series 
