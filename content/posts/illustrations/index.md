@@ -12,52 +12,52 @@ Fresco, Procreate, Adobe Illustrator
 <div className="Image__Small">
   <img
     src="./images/building.png"
-    title="building"
+    title="3d thumbnail"
     alt="Alt text"
   />
   <img
     src="./images/cat.png"
-    title="cat"
+    title="3d thumbnail"
     alt="Alt text"
   />
   <img
-    src="./images/sea.png"
-    title="sea"
+    src="./images/sea.jpg"
+    title="3d thumbnail"
     alt="Alt text"
   />
-  <img
+   <img
     src="./images/silkscreen.jpg"
-    title="silk"
+    title="3d thumbnail"
     alt="Alt text"
   />
-  <img
+   <img
     src="./images/poppy.jpeg"
-    title="poppy"
+    title="3d thumbnail"
     alt="Alt text"
   />
-  <img
-    src="./images/ricefield.jpeg"
-    title="rice"
+   <img
+    src="./images/ricefield.jpg"
+    title="3d thumbnail"
     alt="Alt text"
   />
-  <img
+   <img
     src="./images/fineart.png"
-    title="fineart"
+    title="3d thumbnail"
     alt="Alt text"
   />
-  <img
+   <img
     src="./images/photographer.png"
-    title="photo"
+    title="3d thumbnail"
     alt="Alt text"
   />
-  <img
-    src="./images/thank-you.jpeg"
-    title="ty"
-    alt="Alt text"
-  />
-  <img
+   <img
     src="./images/t4g.png"
-    title="tfg"
+    title="3d thumbnail"
+    alt="Alt text"
+  />
+   <img
+    src="./images/thank-you.jpeg"
+    title="3d thumbnail"
     alt="Alt text"
   />
 </div>
