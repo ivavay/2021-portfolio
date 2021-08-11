@@ -22,7 +22,7 @@ Inspired by the Taiwanese food I ate during my 6-month stay in Taiwan last year,
     alt="Alt text"
   />
   <img
-    src="./images/soupdumpling.png"
+    src="./images/soupdumpling.jpg"
     title="3d thumbnail"
     alt="Alt text"
   />
