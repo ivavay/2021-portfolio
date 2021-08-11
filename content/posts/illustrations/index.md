@@ -11,7 +11,7 @@ Fresco, Procreate, Adobe Illustrator
 
 <div className="Image__Small">
   <img
-    src="./images/geometric.png"
+    src="./images/building.png"
     title="3d thumbnail"
     alt="Alt text"
   />
@@ -36,7 +36,7 @@ Fresco, Procreate, Adobe Illustrator
     alt="Alt text"
   />
    <img
-    src="./images/ricefield.jpg"
+    src="./images/ricefield.jpeg"
     title="3d thumbnail"
     alt="Alt text"
   />
