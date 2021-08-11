@@ -3,8 +3,40 @@ title: 3D Explorations
 author: Ivy Chen
 date: 2021-03-14
 hero: ./images/3d-thumbnail.png
-excerpt: This is where my 3D experiments in Blender and Cinema 4D live. 
+excerpt: This is where my 3D experiments live. 
 ---
+
+### Food Series 
+
+Inspired by the Taiwanese food I ate during my 6-month stay in Taiwan last year, I recreated my favorite foods in Cinema4D. 
+
+<div className="Image__Small">
+  <img
+    src="./images/hotpot.png"
+    title="3d thumbnail"
+    alt="Alt text"
+  />
+  <img
+    src="./images/sushi.png"
+    title="3d thumbnail"
+    alt="Alt text"
+  />
+  <img
+    src="./images/soupdumpling.png"
+    title="3d thumbnail"
+    alt="Alt text"
+  />
+</div>
+
+### Geometric Practice 
+<div className="Image__Small">
+  <img
+    src="./images/geometric.png"
+    title="3d thumbnail"
+    alt="Alt text"
+  />
+</div>
+
 
 ### Composition Practice
 
