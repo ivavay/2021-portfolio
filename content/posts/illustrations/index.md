@@ -2,7 +2,7 @@
 title: 2D Illustrations 
 author: Ivy Chen 
 date: 2021-08-10
-hero: ./images/building.png
+hero: ./images/sea.jpg
 excerpt: A space for my 2D illustrations
 ---
 ### Tools 
@@ -32,7 +32,7 @@ Fresco, Procreate, Adobe Illustrator
   />
   <img
     src="./images/poppy.jpeg"
-    title="poppu"
+    title="poppy"
     alt="Alt text"
   />
   <img
