@@ -11,7 +11,7 @@ Fresco, Procreate, Adobe Illustrator
 
 <div className="Image__Small">
   <img
-    src="./images/building.png"
+    src="./images/geometric.png"
     title="3d thumbnail"
     alt="Alt text"
   />
